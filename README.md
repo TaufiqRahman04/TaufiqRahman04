@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Taufiq Rahman  
 
-<!--
-**TaufiqRahman04/TaufiqRahman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresh Graduate in Electrical Engineering | 📡 IT, Data, & Network Enthusiast | 💻 Tech Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔧 Experienced in **PT KAI (SINTEL)**: maintenance & repair of signaling, telecommunication, and electrical systems.  
+- 📊 Interested in **Data Science, Machine Learning, Software Engineering, and Network Security**.  
+- 🌱 Currently exploring **Software Engineering**, & Data Analyst.  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python, C++, SQL  
+- **Tools**: Git, PyQt5, MATLAB, Arduino/ESP32  
+- **ML/AI**: Scikit-Learn, Pandas, NumPy  
+- **Other**: Signal Processing  
+
+---
+
+## 📌 Featured Projects
+- 📱 [ESP32 Pot Monitoring Android App](https://github.com/TaufiqRahman04/esp32-pot-monitoring-android-app)  
+- 🎬 [Movies Analytics Data Science](https://github.com/TaufiqRahman04/movies-analytics-data-science) 
+- 📈 [PPG Stres Preprocessing with Machine Learning](https://github.com/TaufiqRahman04/ppg-stress-preprocessing)
+
+---
+
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/taufiqrahman6)   
+---
+
+⭐ *“Learning step by step, because small progress every day beats waiting for perfection.”*
