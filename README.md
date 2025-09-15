@@ -20,9 +20,9 @@
 ---
 
 ## 📌 Featured Projects
+- 📈 [PPG Mental Stres Signal Preprocessing Classification with Machine Learning](https://github.com/TaufiqRahman04/ppg-stress-preprocessing)
 - 📱 [ESP32 Pot Monitoring Android App](https://github.com/TaufiqRahman04/esp32-pot-monitoring-android-app)  
 - 🎬 [Movies Analytics Data Science](https://github.com/TaufiqRahman04/movies-analytics-data-science) 
-- 📈 [PPG Stres Preprocessing with Machine Learning](https://github.com/TaufiqRahman04/ppg-stress-preprocessing)
 
 ---
 
