@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Taufiq Rahman  
 
-🎓 Fresh Graduate in Electrical Engineering | 📡 IT, Data, & Network Enthusiast | 💻 Tech Explorer  
+🎓 Fresh Graduate in Telecommunication Engineering | 📡 IT, Data, & Network Enthusiast | 💻 Tech Explorer  
 
 ---
 
