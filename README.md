@@ -7,13 +7,13 @@
 ## 🚀 About Me
 - 🔧 Experienced in **PT KAI (SINTEL)**: maintenance & repair of signaling, telecommunication, and electrical systems.  
 - 📊 Interested in **Data Science, Machine Learning, Software Engineering, and Network Security**.  
-- 🌱 Currently exploring **Software Engineering**, & Data Analyst.  
+- 🌱 Currently exploring **Software Engineering**, & **Data Analysis**.  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, C++, SQL  
-- **Tools**: Git, PyQt5, MATLAB, Arduino/ESP32  
+- **Tools**: Git, MATLAB, Arduino/ESP32  
 - **ML/AI**: Scikit-Learn, Pandas, NumPy  
 - **Other**: Signal Processing  
 
